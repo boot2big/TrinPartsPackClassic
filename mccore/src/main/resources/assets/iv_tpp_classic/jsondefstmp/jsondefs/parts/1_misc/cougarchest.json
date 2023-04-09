@@ -1,0 +1,44 @@
+{
+  "generic": {
+    "type": "interactable_crate"
+  },
+  "interactable": {
+    "interactionType": "crate",
+    "feedsVehicles": true,
+    "inventoryUnits": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_d",
+      "modelName": "cougarchest",
+      "extraMaterialLists": [
+        []
+      ]
+    },
+    {
+      "subName": "_g",
+      "modelName": "cougarchest",
+      "extraMaterialLists": [
+        []
+      ]
+    },
+    {
+      "subName": "_rd",
+      "modelName": "cougarchest",
+      "extraMaterialLists": [
+        []
+      ]
+    }
+  ],
+  "rendering": {
+    "particles": [],
+    "modelType": "obj"
+  },
+  "general": {
+    "materialLists": [
+      ["minecraft:iron_ingot:0:8","minecraft:dye:11:1","minecraft:dye:15:1"]
+    ],
+    "radarWidth": 0.0,
+    "radarRange": 0.0
+  }
+}

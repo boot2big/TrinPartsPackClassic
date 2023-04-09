@@ -1,0 +1,54 @@
+{
+  "components": [
+    {
+      "scale": 1.0,
+      "textureXCenter": 448,
+      "textureYCenter": 64,
+      "textureWidth": 128,
+      "textureHeight": 128,
+      "lightUpTexture": true
+    },
+    {
+      "scale": 1.0,
+      "textureXCenter": 704,
+      "textureYCenter": 64,
+      "textureWidth": 128,
+      "textureHeight": 128,
+      "lightUpTexture": true,
+      "animations": [
+        {
+          "animationType": "rotation",
+          "variable": "engine_rpm",
+          "centerPoint": [0.0,0.0,0.0],
+          "axis": [0.0,0.0,0.03857000172138214],
+          "offset": -135.0
+        }
+      ]
+    },
+    {
+      "scale": 1.0,
+      "textureXCenter": 960,
+      "textureYCenter": 192,
+      "textureWidth": 128,
+      "textureHeight": 128,
+      "lightUpTexture": true,
+      "overlayTexture": true,
+      "animations": [
+        {
+          "animationType": "visibility",
+          "variable": "running_light",
+          "clampMin": 1,
+          "clampMax": 1
+        }
+      ]
+    }
+  ],
+  "textureName": "instruments.png",
+  "general": {
+    "name": "Tachometer 7kRPM",
+    "stackSize": 64,
+    "materialLists": [
+      ["minecraft:iron_ingot:0:1","minecraft:dye:0:1","minecraft:dye:0:2","minecraft:dye:15:3","minecraft:dye:1:2"]
+    ]
+  }
+}
