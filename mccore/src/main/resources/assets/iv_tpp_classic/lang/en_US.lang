@@ -1,0 +1,187 @@
+itemGroup.iv_tpp=Trin Part Pack
+
+item.iv_tpp.trinwheel5t2d_c.name=Classic Trin Wheel (5*2)
+item.iv_tpp.trinwheel11t4d_c.name=Classic Trin Wheel (11*4)
+item.iv_tpp.trinwheel11t4d_r.name=Racing Trin Wheel (11*4)
+item.iv_tpp.trinwheel11t5d_c.name=Classic Trin Wheel (11*5)
+item.iv_tpp.trinwheel11t5d_r.name=Racing Trin Wheel (11*5)
+item.iv_tpp.trinwheel12t4d_c.name=Classic Trin Wheel (12*4)
+item.iv_tpp.trinwheel12t4d_r.name=Racing Trin Wheel (12*4)
+item.iv_tpp.trinwheel12t5d_c.name=Classic Trin Wheel (12*5)
+item.iv_tpp.trinwheel12t5d_r.name=Racing Trin Wheel (12*5)
+item.iv_tpp.trinwheel13t4d_c.name=Classic Trin Wheel (13*4)
+item.iv_tpp.trinwheel13t4d_r.name=Racing Trin Wheel (13*4)
+item.iv_tpp.trinwheel13t5d_c.name=Classic Trin Wheel (13*5)
+item.iv_tpp.trinwheel13t5d_r.name=Racing Trin Wheel (13*5)
+item.iv_tpp.trinwheel13t5d_or.name=Off Roading Trin Wheel (13*5)
+item.iv_tpp.trinwheel14t4d_c.name=Classic Trin Wheel (14*4)
+item.iv_tpp.trinwheel14t4d_r.name=Racing Trin Wheel (14*4)
+item.iv_tpp.trinwheel14t5d_c.name=Classic Trin Wheel (14*5)
+item.iv_tpp.trinwheel14t5d_r.name=Racing Trin Wheel (14*5)
+item.iv_tpp.trinwheel14t5d_or.name=Off Roading Trin Wheel (14*5)
+item.iv_tpp.trinwheel14t6d_c.name=Classic Trin Wheel (14*6)
+item.iv_tpp.trinwheel14t6d_r.name=Racing Trin Wheel (14*6)
+item.iv_tpp.trinwheel14t6d_or.name=Off Roading Trin Wheel (14*6)
+item.iv_tpp.trinwheel15t4d_c.name=Classic Trin Wheel (15*4)
+item.iv_tpp.trinwheel15t4d_r.name=Racing Trin Wheel (15*4)
+item.iv_tpp.trinwheel15t5d_c.name=Classic Trin Wheel (15*5)
+item.iv_tpp.trinwheel15t5d_r.name=Racing Trin Wheel (15*5)
+item.iv_tpp.trinwheel15t5d_or.name=Off Roading Trin Wheel (15*5)
+item.iv_tpp.trinwheel15t6d_c.name=Classic Trin Wheel (15*6)
+item.iv_tpp.trinwheel15t6d_r.name=Racing Trin Wheel (15*6)
+item.iv_tpp.trinwheel15t6d_or.name=Off Roading Trin Wheel (15*6)
+item.iv_tpp.trinwheel16t5d_c.name=Classic Trin Wheel (16*5)
+item.iv_tpp.trinwheel16t5d_or.name=Off Roading Trin Wheel (16*5)
+item.iv_tpp.trinwheel16t6d_c.name=Classic Trin Wheel (16*6)
+item.iv_tpp.trinwheel16t6d_or.name=Off Roading Trin Wheel (16*6)
+item.iv_tpp.trinwheel16t7d_c.name=Classic Trin Wheel (16*7)
+item.iv_tpp.trinwheel16t7d_or.name=Off Roading Trin Wheel (16*7)
+item.iv_tpp.trinwheel17t5d_c.name=Classic Trin Wheel (17*5)
+item.iv_tpp.trinwheel17t5d_or.name=Off Roading Trin Wheel (17*5)
+item.iv_tpp.trinwheel17t6d_c.name=Classic Trin Wheel (17*6)
+item.iv_tpp.trinwheel17t6d_or.name=Off Roading Trin Wheel (17*6)
+item.iv_tpp.trinwheel17t7d_c.name=Classic Trin Wheel (17*7)
+item.iv_tpp.trinwheel17t7d_or.name=Off Roading Trin Wheel (17*7)
+item.iv_tpp.trinwheel18t6d_c.name=Classic Trin Wheel (18*6)
+item.iv_tpp.trinwheel18t6d_or.name=Off Roading Trin Wheel (18*6)
+item.iv_tpp.trinwheel18t7d_c.name=Classic Trin Wheel (18*7)
+item.iv_tpp.trinwheel18t7d_or.name=Off Roading Trin Wheel (18*7)
+item.iv_tpp.trinwheel20t6d_c.name=Classic Trin Wheel (20*6)
+item.iv_tpp.trinwheel20t6d_or.name=Off Roading Trin Wheel (20*6)
+item.iv_tpp.trinwheel20t7d_c.name=Classic Trin Wheel (20*7)
+item.iv_tpp.trinwheel20t7d_or.name=Off Roading Trin Wheel (20*7)
+item.iv_tpp.trinwheel30t10d_c.name=Classic Trin Wheel (30*10)
+item.iv_tpp.trinwheel30t10d_or.name=Off Roading Trin Wheel (30*10)
+
+item.iv_tpp.trin_crate1.name=Trin Crate
+item.iv_tpp.trin_crate2.name=Trin Cardboard Crate (Beware, looks a lot like bread.)
+item.iv_tpp.cougarchest_d.name=Yellow Sand Dyed Metal Crate
+item.iv_tpp.cougarchest_rd.name=Red Sand Dyed Metal Crate
+item.iv_tpp.cougarchest_g.name=Green Dyed Metal Crate
+item.iv_tpp.roof_crate_light_gray.name=Trin Light Gray roof Crate
+item.iv_tpp.roof_crate_dark_gray.name=Trin Dark Gray roof Crate
+item.iv_tpp.roof_crate_white.name=Trin White roof Crate
+
+
+item.iv_tpp.trin_v6_compact.name=Compact Trin V6 Engine
+
+item.iv_tpp.trin_v6.name=Trin V6 Engine
+item.iv_tpp.trin_v8.name=Trin V8 Engine
+item.iv_tpp.trin_v10.name=Trin V10 Engine
+item.iv_tpp.trin_v12.name=Trin V12 Engine
+item.iv_tpp.trin_v16.name=Trin V16 Engine
+
+item.iv_tpp.trin_v8_man.name=Manual Trin V8 Engine
+item.iv_tpp.trin_v10_man.name=Manual Trin V10 Engine
+item.iv_tpp.trin_v12_man.name=Manual Trin V12 Engine
+
+item.iv_tpp.trin_v6_turbo.name=Turbo Trin V6 Engine
+item.iv_tpp.trin_v8_turbo.name=Turbo Trin V8 Engine
+
+
+item.iv_tpp.trin_i3.name=Trin I3 Engine
+item.iv_tpp.trin_i4.name=Trin I4 Engine
+item.iv_tpp.trin_i5.name=Trin I5 Engine
+item.iv_tpp.trin_i6.name=Trin I6 Engine
+item.iv_tpp.trin_i8.name=Trin I8 Engine
+item.iv_tpp.trin_i10.name=Trin I10 Engine
+item.iv_tpp.trin_i12.name=Trin I12 Engine
+
+item.iv_tpp.trin_i6_man.name=Manual Trin I6 Engine
+item.iv_tpp.trin_i8_man.name=Manual Trin I8 Engine
+item.iv_tpp.trin_i10_man.name=Manual Trin I10 Engine
+item.iv_tpp.trin_i12_man.name=Manual Trin I12 Engine
+
+item.iv_tpp.trin_i3_turbo.name=Turbo Trin I3 Engine
+item.iv_tpp.trin_i4_turbo.name=Turbo Trin I4 Engine
+item.iv_tpp.trin_i5_turbo.name=Turbo Trin I5 Engine
+item.iv_tpp.trin_i6_turbo.name=Turbo Trin I6 Engine
+item.iv_tpp.trin_i8_turbo.name=Turbo Trin I8 Engine
+
+
+item.iv_tpp.car_roof_sign_taxi.name=Taxi Car Roof Sign
+item.iv_tpp.car_roof_sign_drive_school.name=Drive School Car Roof Sign
+item.iv_tpp.car_roof_sign_police.name=Police Car Roof Sign
+item.iv_tpp.car_roof_sign_pizza_shack.name=Pizza Shack Car Roof Sign
+
+item.iv_tpp.car_roof_lightbar_r.name=Red Modern Lightbar
+item.iv_tpp.car_roof_lightbar_b.name=Blue Modern Lightbar
+item.iv_tpp.car_roof_lightbar_rb.name=Red & Blue Modern Lightbar
+
+item.iv_tpp.car_roof_xl_lightbar_r.name=Red Large Lightbar
+item.iv_tpp.car_roof_xl_lightbar_b.name=Blue Large Lightbar
+item.iv_tpp.car_roof_xl_lightbar_rb.name=Red & Blue Large Lightbar
+
+
+item.iv_tpp.bull_bar_l_p.name=Police Large Bull Bar
+item.iv_tpp.bull_bar_s_p.name=Police Small Bull Bar
+
+
+item.iv_tpp.led_light_b.name=Blue Small LED
+item.iv_tpp.led_light_r.name=Red Small LED
+item.iv_tpp.led_light_y.name=Yellow Small LED
+item.iv_tpp.led_light_w.name=White Small LED
+
+
+item.iv_tpp.trin_batery.name=Electrical Gauge
+item.iv_tpp.trin_boost.name=Tachometer
+item.iv_tpp.trin_fuel.name=Fuel Gauge
+item.iv_tpp.trin_oil_pressure_bar.name=Oil Presure Gauge (BAR)
+item.iv_tpp.trin_oil_pressure_psi.name=Oil Presure Gauge (PSI)
+item.iv_tpp.trin_oil_temp_c.name=Engine Temperature Gauge (C)
+item.iv_tpp.trin_oil_temp_f.name=Engine Temperature Gauge (F)
+item.iv_tpp.trin_speedometer_bks.name=Spedometer (BLK/S)
+item.iv_tpp.trin_speedometer_mph.name=Spedometer (M/H)
+item.iv_tpp.trin_speedometer_kph.name=Spedometer (Km/H)
+item.iv_tpp.trin_batery.description=Shows battery's charge
+item.iv_tpp.trin_boost.description=Shows engine's RPMs
+item.iv_tpp.trin_fuel.description=Shows fuel left in tank
+item.iv_tpp.trin_oil_pressure_bar.description=Shows Oil Presure (in BAR)
+item.iv_tpp.trin_oil_pressure_psi.description=Shows Oil Presure (in PSI)
+item.iv_tpp.trin_oil_temp_c.description=Shows Engine's Temperature (in °C)
+item.iv_tpp.trin_oil_temp_f.description=Shows Engine's Temperature (in °F)
+item.iv_tpp.trin_speedometer_bks.description=Shows the car's speed (in Blocks/Seconds)
+item.iv_tpp.trin_speedometer_mph.description=Shows the car's speed (in Miles/Hour)
+item.iv_tpp.trin_speedometer_kph.description=Shows the car's speed (in Kilometers/Hour)
+
+
+item.iv_tpp.trin_seat_1_beige-beige-beige.name=Trin Seat (model 1, beige casing, beige fabric, beige stitching)
+item.iv_tpp.trin_seat_1_black-dkgray-dkgray.name=Trin Seat (model 1, black casing, dark gray fabric, dark gray stitching)
+item.iv_tpp.trin_seat_1_dkbrown-brown-brown.name=Trin Seat (model 1, dark brown casing, brown fabric, brown stitching)
+item.iv_tpp.trin_seat_1_dkgray-gray-ltgray.name=Trin Seat (model 1, dark gray casing, gray fabric, light gray stitching)
+item.iv_tpp.trin_seat_1_dkgray-white-ltgray.name=Trin Seat (model 1, dark gray casing, white fabric, light gray stitching)
+item.iv_tpp.trin_seat_1_gray-blackblue-white.name=Trin Seat (model 1, gray casing, black and blue fabric, white stitching)
+item.iv_tpp.trin_seat_1_ltgray-white-blue.name=Trin Seat (model 1, light gray casing, white fabric, blue stitching)
+item.iv_tpp.trin_seat_1_red-dkgray-dkred.name=Trin Seat (model 1, red casing, dark red fabric, dark red stitching)
+
+item.iv_tpp.trin_seat_2_beige-beige-beige.name=Trin Seat (model 2, beige casing, beige fabric, beige stitching)
+item.iv_tpp.trin_seat_2_black-dkgray-dkgray.name=Trin Seat (model 2, black casing, dark gray fabric, dark gray stitching)
+item.iv_tpp.trin_seat_2_dkbrown-brown-brown.name=Trin Seat (model 2, dark brown casing, brown fabric, brown stitching)
+item.iv_tpp.trin_seat_2_dkgray-gray-ltgray.name=Trin Seat (model 2, dark gray casing, gray fabric, light gray stitching)
+item.iv_tpp.trin_seat_2_dkgray-white-ltgray.name=Trin Seat (model 2, dark gray casing, white fabric, light gray stitching)
+item.iv_tpp.trin_seat_2_gray-blackblue-white.name=Trin Seat (model 2, gray casing, black and blue fabric, white stitching)
+item.iv_tpp.trin_seat_2_ltgray-white-blue.name=Trin Seat (model 2, light gray casing, white fabric, blue stitching)
+item.iv_tpp.trin_seat_2_red-dkgray-dkred.name=Trin Seat (model 2, red casing, dark red fabric, dark red stitching)
+
+item.iv_tpp.trin_seat_3_beige-beige-beige.name=Trin Seat (model 3, beige casing, beige fabric, beige stitching)
+item.iv_tpp.trin_seat_3_black-dkgray-dkgray.name=Trin Seat (model 3, black casing, dark gray fabric, dark gray stitching)
+item.iv_tpp.trin_seat_3_dkbrown-brown-brown.name=Trin Seat (model 3, dark brown casing, brown fabric, brown stitching)
+item.iv_tpp.trin_seat_3_dkgray-gray-ltgray.name=Trin Seat (model 3, dark gray casing, gray fabric, light gray stitching)
+item.iv_tpp.trin_seat_3_dkgray-white-ltgray.name=Trin Seat (model 3, dark gray casing, white fabric, light gray stitching)
+item.iv_tpp.trin_seat_3_gray-blackblue-white.name=Trin Seat (model 3, gray casing, black and blue fabric, white stitching)
+item.iv_tpp.trin_seat_3_ltgray-white-blue.name=Trin Seat (model 3, light gray casing, white fabric, blue stitching)
+item.iv_tpp.trin_seat_3_red-dkgray-dkred.name=Trin Seat (model 3, red casing, dark red fabric, dark red stitching)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
